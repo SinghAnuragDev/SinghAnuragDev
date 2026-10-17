@@ -16,5 +16,7 @@ Software engineer at Infosys, building backends in Python. I care most about the
 ### Stack
 Python · Flask · SQLAlchemy · MySQL · REST APIs · Git · Linux
 
+Solving NeetCode problems in Python, with my approach notes: [dsa-python](https://github.com/SinghAnuragDev/dsa-python)
+
 ### Elsewhere
 [LinkedIn](https://www.linkedin.com/in/anuragsingh1919)
